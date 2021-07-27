@@ -8,7 +8,7 @@
    - It is downloaded as `XLaunch`
    - When starting XLaunch **disable** the `Native opengl` and **enable** `Disable access control`
 
-<img src="https://github.com/samuelth47/TSGL/blob/master/Windows/xlaunch.gif" width="500" height="600"/>
+<img src="https://github.com/Calvin-CS/TSGL/blob/master/Windows/xlaunch.gif" width="500" height="600"/>
 
 ##### Check
 * Start XLaunch
